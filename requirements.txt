@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tensorflow      # will pull CPU version by default
+scikit-learn
+pillow
+streamlit
+streamlit-drawable-canvas
